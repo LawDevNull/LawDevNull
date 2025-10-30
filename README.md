@@ -3,7 +3,7 @@
 Welcome to my personal repository on GitHub, where I store information about various personal projects because I'm better at Markdown than I am at web design 😄
 
 GitHub provides some initial questions to fill out this ReadMe, so I'm using those until I come up with something more insightful to put here –
-- 🔭 I’m currently working on: the 9th Annual [Bull City Foodraiser](https://github.com/LawDevNull/BullCityFoodraiser/), which will run from December 5-9, 2023. Let me know if you'd like to support!
+- 🔭 I’m currently working on: the 9th Annual [Bull City Foodraiser](https://github.com/LawDevNull/BullCityFoodraiser/), which will run from December 9-12, 2025. Let me know if you'd like to support!
 - 🌱 I’m currently learning: everything I can about all the GitHub services, because that's my day job :shipit: 
 - 👯 I’m looking to collaborate on: anything fun or impactful that also meshes with my (predominantly law-related) skillsets ⚖️
 - 🤔 I’m looking for help with: [fundraising for the Bull City Foodraiser](https://github.com/LawDevNull/BullCityFoodraiser/blob/main/DONATE.md) 🥺🥺🥺
